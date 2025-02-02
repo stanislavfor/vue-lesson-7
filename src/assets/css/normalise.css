@@ -1,0 +1,51 @@
+blockquote,
+body,
+dd,
+dl,
+figcaption,
+figure,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+li,
+ol,
+p,
+ul {
+    margin: 0
+}
+
+body,
+html {
+    height: 100%
+}
+
+html {
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%
+}
+
+*,
+::after,
+::before {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit
+}
+
+body {
+    margin: 0
+}
+
+a {
+    outline: none;
+    text-decoration: none;
+    background-color: transparent
+}
+
+li {
+    list-style-type: none;
+}
+
+
